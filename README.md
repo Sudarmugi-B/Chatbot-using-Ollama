@@ -13,11 +13,11 @@ This project implements a simple chatbot using Streamlit and Ollama, a local lan
 Here are some screenshots of the chatbot in action:
 
 ### Initial Interaction
-![Initial Chatbot Interaction](chatbot_screenshot_1.png)
+![Initial Chatbot Interaction](images/pic1.png)
 *Screenshot showing the initial interaction with the chatbot*
 
 ### Generating Content
-![Chatbot Generating Content](chatbot_screenshot_2.png)
+![Chatbot Generating Content](images/pic2.png)
 *Screenshot displaying the chatbot generating a poem about generative AI*
 
 These screenshots demonstrate the user interface and some capabilities of the chatbot, including basic conversation and content generation.
